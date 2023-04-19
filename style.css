@@ -1,12 +1,16 @@
+body{
+    background: linear-gradient(80deg ,#A00042,#004B93);
+}
 h1{
     text-align: center;
     margin-top: 30px;
     margin-bottom: 10px;
     font-size: 40px;
     font-family: sans-serif;
+    color: whitesmoke;
 }
 .gallary{
-    height: 80%;
+    height: 80vh;
     width: 100%;
     display: flex;
     margin: 20px auto 0;
